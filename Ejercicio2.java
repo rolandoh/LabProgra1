@@ -1,6 +1,9 @@
 import java.util.Scanner;
 public class Ejercicio2{
 	public static void main(String[] args) {
+		/*
+			Este es el Segundo Ejercicio del Trabajo en Grupo
+		*/
 		Scanner amor = new Scanner(System.in);
 
 		String nombre;
